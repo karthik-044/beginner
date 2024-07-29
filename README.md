@@ -1,4 +1,4 @@
 # beginner
 This is my first Git Repository.
 <br>
-Author : Karthik devulapally
+Author : Karthik devulapally (dev)
